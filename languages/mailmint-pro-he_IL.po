@@ -1,0 +1,881 @@
+# Copyright (C) 2024 WPFunnels Team
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Marketing Automation - Mail Mint (Pro) 1.7.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mail-mint-pro\n"
+"Last-Translator: \n"
+"Language-Team: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-08T07:42:40+00:00\n"
+"PO-Revision-Date: 2024-01-16 04:09+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: mailmint-pro\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2"
+
+#. Plugin Name of the plugin
+msgid "Email Marketing Automation - Mail Mint (Pro)"
+msgstr "אוטומציה של שיווק בדוא\"ל - Mail Mint (פרו)"
+
+#. Plugin URI of the plugin
+msgid "https://getwpfunnels.com/email-marketing-automation-mail-mint/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Power up 🔥 your funnels using exclusive email sequences, advanced email "
+"automation ⚙️, and visual integration with WPFunnels."
+msgstr ""
+"הפעל 🔥 את המשפכים שלך באמצעות רצפי אימייל בלעדיים, אוטומציה מתקדמת של אימייל "
+"⚙️ ואינטגרציה ויזואלית עם WPFunnels."
+
+#. Author of the plugin
+msgid "WPFunnels Team"
+msgstr "צוות WPFunnels"
+
+#. Author URI of the plugin
+msgid "https://getwpfunnels.com/"
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:46
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:67
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:88
+msgid "Query Successful."
+msgstr "השאילתה הצליחה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:49
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:70
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:91
+msgid "Failed to get data."
+msgstr "קבלת הנתונים נכשלה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:110
+msgid "Abandoned Cart has been deleted successfully."
+msgstr "עגלה נטושה נמחקה בהצלחה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:114
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:136
+msgid "Failed to delete."
+msgstr "המחיקה נכשלה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:132
+msgid "Abandoned carts has been deleted successfully."
+msgstr "עגלות נטושות נמחקו בהצלחה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:150
+msgid "Failed to get automation data."
+msgstr "קבלת נתוני אוטומציה נכשלה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:157
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:159
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:189
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:191
+msgid "Abandoned automation data."
+msgstr "נתוני אוטומציה נטושים."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:174
+msgid "Get Report Successfully."
+msgstr "קבל דיווח בהצלחה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:176
+msgid "Abandoned cart analytics Report."
+msgstr "דוח ניתוח עגלה נטושה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:204
+msgid "Failed to run automation data."
+msgstr "הפעלת נתוני אוטומציה נכשלה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:208
+msgid "Run automation successfully."
+msgstr "הפעל אוטומציה בהצלחה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:210
+msgid "Run abandoned successfully."
+msgstr "הפעלה נטושה בהצלחה."
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:276
+#: app/Admin/API/Controllers/AbandonedCartSettingController.php:107
+#: app/Admin/API/Controllers/EmailBuilderController.php:527
+msgid "Sorry, you cannot edit this resources."
+msgstr "מצטערים, אינך יכול לערוך משאבים אלה."
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:70
+msgid "Cart Details Not Found."
+msgstr "פרטי העגלה לא נמצאו."
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:88
+msgid "Checkout data has been updated."
+msgstr "נתוני התשלום עודכנו."
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:103
+msgid "Email not found."
+msgstr "אימייל לא נמצא."
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:111
+msgid "Deleted."
+msgstr "נמחק."
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:113
+msgid "Not Deleted."
+msgstr "לא נמחק."
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:115
+msgid "No cart details found."
+msgstr "לא נמצאו פרטי עגלה."
+
+#: app/Admin/API/Controllers/AbandonedCartSettingController.php:52
+msgid "Missing or empty parameters"
+msgstr "פרמטרים חסרים או ריקים"
+
+#: app/Admin/API/Controllers/AbandonedCartSettingController.php:67
+msgid "Abandoned cart settings have been successfully saved."
+msgstr "הגדרות עגלה נטושה נשמרו בהצלחה."
+
+#: app/Admin/API/Controllers/AbandonedCartSettingController.php:86
+msgid "No settings found"
+msgstr "לא נמצאו הגדרות"
+
+#: app/Admin/API/Controllers/ContactExportController.php:76
+msgid "Contact fields have been retrieved successfully."
+msgstr "שדות אנשי קשר אוחזרו בהצלחה."
+
+#: app/Admin/API/Controllers/ContactExportController.php:102
+msgid "Contacts have been retrieved successfully."
+msgstr "אנשי הקשר אוחזרו בהצלחה."
+
+#: app/Admin/API/Controllers/ContactExportController.php:127
+msgid "Contacts have been exported successfully."
+msgstr "אנשי הקשר יוצאו בהצלחה."
+
+#: app/Admin/API/Controllers/ContactExportController.php:153
+msgid "CSV file has been exported successfully."
+msgstr "קובץ CSV יוצא בהצלחה."
+
+#: app/Admin/API/Controllers/ContactExportController.php:161
+msgid "CSV file is not available to download."
+msgstr "קובץ CSV אינו זמין להורדה."
+
+#: app/Admin/API/Controllers/ContactProfileController.php:79
+#: app/Admin/API/Controllers/ContactProfileController.php:103
+#: app/Admin/API/Controllers/ContactProfileController.php:134
+msgid "Data have been retrieved successfully."
+msgstr "הנתונים אוחזרו בהצלחה."
+
+#: app/Admin/API/Controllers/CustomFieldController.php:62
+msgid "Title is mandatory, Can not Save."
+msgstr "הכותרת היא חובה, לא ניתן לשמור."
+
+#: app/Admin/API/Controllers/CustomFieldController.php:71
+#: app/Admin/API/Controllers/CustomFieldController.php:76
+msgid "Field is already available, Can not Save."
+msgstr "השדה כבר זמין, לא ניתן לשמור."
+
+#: app/Admin/API/Controllers/CustomFieldController.php:83
+msgid "Field is already available."
+msgstr "השדה כבר זמין."
+
+#: app/Admin/API/Controllers/CustomFieldController.php:89
+#: app/Admin/API/Controllers/CustomFieldController.php:96
+msgid "Same slug has been assigned to another Field, Can not Save."
+msgstr "אותו שבלול הוקצה לשדה אחר, לא ניתן לשמור."
+
+#: app/Admin/API/Controllers/CustomFieldController.php:104
+msgid "Type is mandatory, Can not Save."
+msgstr "הסוג הוא חובה, לא ניתן לשמור."
+
+#: app/Admin/API/Controllers/CustomFieldController.php:155
+msgid "Field has been saved successfully"
+msgstr "השדה נשמר בהצלחה"
+
+#: app/Admin/API/Controllers/CustomFieldController.php:157
+#: app/Admin/API/Controllers/SegmentController.php:74
+#: app/Admin/API/Controllers/WebHookController.php:78
+msgid "Failed to save"
+msgstr "השמירה נכשלה"
+
+#: app/Admin/API/Controllers/CustomFieldController.php:159
+msgid "Custom Field is not valid"
+msgstr "שדה מותאם אישית אינו חוקי"
+
+#: app/Admin/API/Controllers/CustomFieldController.php:180
+msgid "Field has been deleted successfully"
+msgstr "השדה נמחק בהצלחה"
+
+#: app/Admin/API/Controllers/CustomFieldController.php:183
+#: app/Admin/API/Controllers/SegmentController.php:180
+#: app/Admin/API/Controllers/SegmentController.php:202
+#: app/Admin/API/Controllers/WebHookController.php:175
+#: app/Admin/API/Controllers/WebHookController.php:197
+msgid "Failed to delete"
+msgstr "המחיקה נכשלה"
+
+#: app/Admin/API/Controllers/CustomFieldController.php:222
+#: app/Admin/API/Controllers/CustomFieldController.php:247
+#: app/Admin/API/Controllers/SegmentController.php:133
+#: app/Admin/API/Controllers/WebHookController.php:129
+#: app/Admin/API/Controllers/WebHookController.php:212
+msgid "Query Successfull"
+msgstr "השאילתה הצליחה"
+
+#: app/Admin/API/Controllers/CustomFieldController.php:224
+#: app/Admin/API/Controllers/CustomFieldController.php:249
+#: app/Admin/API/Controllers/SegmentController.php:135
+#: app/Admin/API/Controllers/WebHookController.php:131
+#: app/Admin/API/Controllers/WebHookController.php:214
+msgid "Failed to get data"
+msgstr "קבלת הנתונים נכשלה"
+
+#. Translators: %d stock amount
+#: app/Admin/API/Controllers/EmailBuilderController.php:192
+msgid "Stock: %d"
+msgstr ""
+
+#: app/Admin/API/Controllers/EmailBuilderController.php:484
+msgid "No products are currently available."
+msgstr "אין מוצרים זמינים כרגע."
+
+#: app/Admin/API/Controllers/EmailBuilderController.php:514
+msgid "Products has been retrieved successfully."
+msgstr "המוצרים אוחזרו בהצלחה."
+
+#: app/Admin/API/Controllers/SegmentController.php:53
+#: app/Admin/API/Controllers/WebHookController.php:47
+msgid "Title is mandatory"
+msgstr "הכותרת היא חובה"
+
+#: app/Admin/API/Controllers/SegmentController.php:58
+msgid "Filters are mandatory."
+msgstr "מסננים הם חובה."
+
+#: app/Admin/API/Controllers/SegmentController.php:72
+msgid "Segment has been saved successfully"
+msgstr "הפלח נשמר בהצלחה"
+
+#: app/Admin/API/Controllers/SegmentController.php:76
+msgid "Segment is not valid"
+msgstr "הפלח אינו חוקי"
+
+#: app/Admin/API/Controllers/SegmentController.php:154
+#: app/Admin/API/Controllers/SegmentController.php:241
+msgid "Successfully fetched segment contacts!"
+msgstr "אנשי קשר מקטע הוחזרו בהצלחה!"
+
+#: app/Admin/API/Controllers/SegmentController.php:157
+msgid "Failed to fetch the segment contacts!"
+msgstr "אחזור אנשי הקשר של הפלח נכשל!"
+
+#: app/Admin/API/Controllers/SegmentController.php:177
+msgid "Segment has been deleted successfully"
+msgstr "הפלח נמחק בהצלחה"
+
+#: app/Admin/API/Controllers/SegmentController.php:199
+msgid "Segments has been deleted successfully"
+msgstr "הפלחים נמחקו בהצלחה"
+
+#: app/Admin/API/Controllers/SegmentController.php:244
+msgid "No contacts matched."
+msgstr "אין אנשי קשר תואמים."
+
+#: app/Admin/API/Controllers/SegmentController.php:264
+msgid "Field types have been retrieved successfully."
+msgstr "סוגי שדות אוחזרו בהצלחה."
+
+#: app/Admin/API/Controllers/WebHookController.php:76
+msgid "WebHook has been saved successfully"
+msgstr "WebHook נשמר בהצלחה"
+
+#: app/Admin/API/Controllers/WebHookController.php:80
+msgid "WebHook is not valid"
+msgstr "WebHook אינו חוקי"
+
+#: app/Admin/API/Controllers/WebHookController.php:150
+msgid "Successfully fetched webhook data!"
+msgstr "נתוני webhook הועברו בהצלחה!"
+
+#: app/Admin/API/Controllers/WebHookController.php:153
+msgid "Failed to fetch the webhook data!"
+msgstr "אחזור נתוני ה-webhook נכשל!"
+
+#: app/Admin/API/Controllers/WebHookController.php:173
+#: app/Admin/API/Controllers/WebHookController.php:194
+msgid "Webhook has been deleted successfully"
+msgstr "Webhook נמחק בהצלחה"
+
+#: app/App.php:98
+msgid "Heads up, Please backup before upgrade!"
+msgstr "שימו לב, נא לגבות לפני השדרוג!"
+
+#: app/App.php:172 app/App.php:173
+msgid "Licence"
+msgstr "רישיון"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:641
+#: app/Internal/AbandonedCart/Helper/Common.php:653
+#: app/Internal/FormBuilder/FormBuilderHook.php:181
+#: app/Internal/FormBuilder/FormBuilderHook.php:249
+#: app/Internal/FormBuilder/FormBuilderHook.php:333
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:326
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:337
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:642
+#: app/Internal/AbandonedCart/Helper/Common.php:654
+#: app/Internal/FormBuilder/FormBuilderHook.php:253
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:327
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:338
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:643
+#: app/Internal/AbandonedCart/Helper/Common.php:655
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:328
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:339
+msgid "Company"
+msgstr "חֶברָה"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:644
+#: app/Internal/AbandonedCart/Helper/Common.php:656
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:329
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:340
+msgid "Address 1"
+msgstr "כתובת 1"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:645
+#: app/Internal/AbandonedCart/Helper/Common.php:657
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:330
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:341
+msgid "Address 2"
+msgstr "כתובת 2"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:646
+#: app/Internal/AbandonedCart/Helper/Common.php:658
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:331
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:342
+msgid "City"
+msgstr "עִיר"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:647
+#: app/Internal/AbandonedCart/Helper/Common.php:659
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:332
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:343
+msgid "Postal/Zip Code"
+msgstr "מיקוד/מיקוד"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:648
+#: app/Internal/AbandonedCart/Helper/Common.php:660
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:333
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:344
+msgid "State"
+msgstr "מדינה"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:649
+#: app/Internal/AbandonedCart/Helper/Common.php:661
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:334
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:345
+msgid "Country"
+msgstr "מדינה"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:650
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:335
+msgid "Phone Number"
+msgstr "מספר טלפון"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:651
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:336
+msgid "Email Address"
+msgstr "כתובת דוא\"ל"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:662
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:346
+msgid "Phone"
+msgstr "טלפון"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:664
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:347
+msgid "WordPress Page ID"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:665
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:348
+msgid "Payment Method"
+msgstr "אמצעי תשלום"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:767
+msgid "Product"
+msgstr "מוצר"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:777
+msgid "Quantity"
+msgstr "כַּמוּת"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:787
+msgid "Price"
+msgstr "מחיר"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:857
+msgid "Total:"
+msgstr "סה\"כ:"
+
+#: app/Internal/AbandonedCart/Helper/Common.php:1173
+msgid "Abandoned Cart"
+msgstr "עגלה נטושה"
+
+#: app/Internal/Actions/Hooks.php:173
+msgid ""
+"Your <strong>Email Marketing Automation - Mail Mint (Pro)</strong> license "
+"is not activated. Please <a href=\"%1$s\">activate your license</a> to use "
+"all the pro features of <strong>Email Marketing Automation - Mail Mint (Pro)"
+"</strong>"
+msgstr ""
+
+#: app/Internal/Actions/WebHooks.php:48
+msgid "Webhook must need to be as POST Method"
+msgstr ""
+
+#: app/Internal/Actions/WebHooks.php:86 app/Internal/Actions/WebHooks.php:107
+msgid "The email has not been found."
+msgstr "האימייל לא נמצא."
+
+#: app/Internal/Actions/WebHooks.php:117
+msgid "The Hash does not match."
+msgstr "ה-Hash לא תואם."
+
+#: app/Internal/Admin/Licence/licence.php:20
+msgid "Plugin / Addons"
+msgstr "תוסף / תוספות"
+
+#: app/Internal/Admin/Licence/licence.php:21
+msgid "License Input"
+msgstr "קלט רישיון"
+
+#: app/Internal/Admin/Licence/licence.php:56
+msgid "Deactivate License"
+msgstr "השבת את הרישיון"
+
+#: app/Internal/Admin/Licence/licence.php:61
+msgid "Activate License"
+msgstr "הפעל רישיון"
+
+#: app/Internal/Admin/Licence/licence.php:77
+msgid "Manage License"
+msgstr "ניהול רישיון"
+
+#: app/Internal/Admin/Licence/licence.php:78
+msgid ""
+"Manage your license and subscriptions in your personalized user account."
+msgstr "נהל את הרישיון וההרשמות בחשבון המשתמש המותאם אישית שלך."
+
+#: app/Internal/Admin/Licence/licence.php:79
+msgid "Manage license"
+msgstr "ניהול רישיון"
+
+#: app/Internal/Admin/Licence/licence.php:94
+#: app/Internal/Admin/Licence/licence.php:96
+msgid "Documentation"
+msgstr "תיעוד"
+
+#: app/Internal/Admin/Licence/licence.php:95
+msgid ""
+"Get detailed guide and documentation on Mail Mint and create highly "
+"converting sales funnels easily."
+msgstr ""
+"קבל מדריך ותיעוד מפורטים על Mail Mint וצור משפכי מכירה בעלי המרה גבוהה בקלות."
+
+#: app/Internal/Admin/Licence/licence.php:106
+msgid "Support"
+msgstr "תמיכה"
+
+#: app/Internal/Admin/Licence/licence.php:107
+msgid ""
+"Can’t find solution with our documentation? Just post a ticket. Our "
+"professional team is here to solve your problems."
+msgstr ""
+"לא מוצא פתרון עם התיעוד שלנו? פשוט תפרסם כרטיס. הצוות המקצועי שלנו כאן כדי "
+"לפתור את הבעיות שלך."
+
+#: app/Internal/Admin/Licence/licence.php:108
+msgid "Post A Ticket"
+msgstr "פרסם כרטיס"
+
+#: app/Internal/Admin/Licence/licence.php:118
+msgid "Show Your Love"
+msgstr "תראה את האהבה שלך"
+
+#: app/Internal/Admin/Licence/licence.php:119
+msgid ""
+"We love to have you in Mail Mint family. Take your 2 minutes to review  and "
+"spread the love to encourage us to keep it going."
+msgstr ""
+"אנחנו אוהבים לארח אותך במשפחת דואר מנטה. הקדישו 2 דקות לסקור ולהפיץ את האהבה "
+"כדי לעודד אותנו להמשיך."
+
+#: app/Internal/Admin/Licence/licence.php:120
+msgid "Leave a Review"
+msgstr "השאירו חוות דעת"
+
+#: app/Internal/Automation/Actions/AddContactNote.php:53
+msgid "Add contact note"
+msgstr "הוסף הערת איש קשר"
+
+#: app/Internal/Automation/Actions/AddContactNote.php:69
+msgid "Subscriber double opt-in confirmed"
+msgstr "אושרה הצטרפות כפולה של מנוי"
+
+#: app/Internal/Automation/Actions/AddContactNote.php:70
+msgid "Subscriber confirmed double opt-in"
+msgstr "המנוי אישר הצטרפות כפולה"
+
+#: app/Internal/Automation/Actions/Conditions/Condition.php:49
+msgid "Condition"
+msgstr "מַצָב"
+
+#: app/Internal/Automation/Actions/Conditions/EmailClicked.php:66
+#: app/Internal/Automation/Actions/Conditions/EmailOpened.php:65
+#: app/Internal/Automation/Actions/Conditions/UserRole.php:47
+msgid "User Role"
+msgstr "תפקיד משתמש"
+
+#: app/Internal/Automation/Actions/CreateCoupon.php:50
+msgid "Create Coupon"
+msgstr "צור קופון"
+
+#: app/Internal/Automation/Actions/CreateUser.php:51
+msgid "Create User"
+msgstr "צור משתמש"
+
+#: app/Internal/Automation/Actions/RemoveList.php:51
+msgid "Remove List"
+msgstr "הסר רשימה"
+
+#: app/Internal/Automation/Actions/RemoveTag.php:51
+msgid "Remove tag"
+msgstr "הסר תג"
+
+#: app/Internal/Automation/Actions/Sequence.php:56
+msgid "Sequence"
+msgstr "סדר פעולות"
+
+#: app/Internal/Automation/Actions/Sequence.php:192
+#: app/Internal/Automation/AutomationManager.php:128
+msgid "sent"
+msgstr "נשלח"
+
+#: app/Internal/Automation/Actions/Sequence.php:194
+#: app/Internal/Automation/AutomationManager.php:130
+msgid "failed"
+msgstr "נִכשָׁל"
+
+#: app/Internal/Automation/Actions/SpecificTimeDelay.php:53
+msgid "Specific Time Delay"
+msgstr "עיכוב זמן ספציפי"
+
+#: app/Internal/Automation/Actions/StopAutomation.php:47
+msgid "Stop Automation"
+msgstr "עצור אוטומציה"
+
+#: app/Internal/Automation/Actions/UpdateStatus.php:49
+msgid "Update status"
+msgstr "עדכן מצב"
+
+#: app/Internal/Automation/Actions/UpdateUserMeta.php:50
+msgid "Update user meta"
+msgstr "עדכן מטא משתמש"
+
+#: app/Internal/Automation/Actions/WebHookOutgoing.php:49
+msgid "Webook"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/ContactForm/ConnectorContactForm.php:50
+msgid "Contact Form 7"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/ContactForm/ConnectorContactForm.php:87
+msgid "Contact Form 7 - After submission"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/Edd/ConnectorEdd.php:50
+msgid "EDD"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/FluentForm/ConnectorFluentForm.php:50
+msgid "Fluent Forms"
+msgstr "צורות שוטפות"
+
+#: app/Internal/Automation/Connectors/Gform/ConnectorGform.php:50
+msgid "Gform"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/JetForm/ConnectorJetform.php:50
+msgid "JetForm"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/LearnDash/ConnectorLearnDash.php:54
+msgid "LearnDash"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/LearnDash/ConnectorLearnDash.php:88
+msgid "Enrolls in a course"
+msgstr "נרשם לקורס"
+
+#: app/Internal/Automation/Connectors/Tutor/ConnectorTutor.php:50
+msgid "Tutor"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/WooCommerce/ConnectorWoocommerce.php:50
+msgid "Woocommerce"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/Wpfunnels/ConnectorWpfunnels.php:55
+msgid "WPFunnels"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:67
+msgid "Black Friday"
+msgstr "יום שישי השחור"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:67
+msgid "Sale"
+msgstr "מְכִירָה"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:71
+msgid "We don’t want you to miss a thing - sign up to get our discounts"
+msgstr "אנחנו לא רוצים שתפספסו דבר - הירשם כדי לקבל את ההנחות שלנו"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:75
+#: app/Internal/FormBuilder/FormBuilderHook.php:110
+msgid "Enter Email*"
+msgstr "הזן אימייל*"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:79
+msgid "Enter First Name"
+msgstr "הזן שם פרטי"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:83
+#: app/Internal/FormBuilder/FormBuilderHook.php:345
+msgid "Subscribe"
+msgstr "הירשם"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:87
+msgid "We don’t spam! Read more in our "
+msgstr "אנחנו לא שולחים ספאם! קרא עוד אצלנו"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:87
+#: app/Internal/FormBuilder/FormBuilderHook.php:120
+#: app/Internal/FormBuilder/FormBuilderHook.php:156
+#: app/Internal/FormBuilder/FormBuilderHook.php:302
+msgid "privacy policy"
+msgstr "מדיניות הפרטיות"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:106
+msgid "Join 2 others, and start your fitness"
+msgstr "הצטרף ל-2 אחרים, והתחל את הכושר שלך"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:106
+msgid "journey with us today"
+msgstr "מסע איתנו היום"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:114
+#: app/Internal/FormBuilder/FormBuilderHook.php:225
+msgid "Join Now"
+msgstr "הצטרף עכשיו"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:120
+#: app/Internal/FormBuilder/FormBuilderHook.php:156
+#: app/Internal/FormBuilder/FormBuilderHook.php:267
+#: app/Internal/FormBuilder/FormBuilderHook.php:302
+msgid "We don’t spam! Read more in our"
+msgstr "אנחנו לא שולחים ספאם! קרא עוד אצלנו"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:138
+msgid "Boo!"
+msgstr "בו!"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:138
+msgid "Don't Be Scared"
+msgstr "אל תפחד"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:142
+msgid "20%"
+msgstr "הפלח נמחק בהצלחה"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:142
+msgid "off on all Halloween products"
+msgstr "הנחה על כל מוצרי ליל כל הקדושים"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:146
+msgid "Enter your email"
+msgstr "הכנס את האימייל שלך"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:150
+msgid "Dare To Subscribe"
+msgstr "העז להירשם"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:171
+msgid "Grab your free eBook to discover proven real-life storytelling methods"
+msgstr ""
+"קח את הספר האלקטרוני החינמי שלך כדי לגלות שיטות סיפור מוכחות בחיים האמיתיים"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:175
+msgid ""
+"Learn how top influencers gained recognition and created a global impact"
+msgstr "למד כיצד משפיעים מובילים זכו להכרה ויצרו השפעה גלובלית"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:187
+#: app/Internal/FormBuilder/FormBuilderHook.php:221
+#: app/Internal/FormBuilder/FormBuilderHook.php:257
+#: app/Internal/FormBuilder/FormBuilderHook.php:339
+msgid "Email"
+msgstr "אימייל"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:193
+msgid "Get The Book Now"
+msgstr "קבל את הספר עכשיו"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:213
+msgid "Join The Bunch"
+msgstr "הצטרף לחבורה"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:217
+msgid ""
+"Be a part of meaningful connections, exclusive updates, and engaging "
+"discussions with our community"
+msgstr ""
+"היה חלק מקשרים משמעותיים, עדכונים בלעדיים ודיונים מרתקים עם הקהילה שלנו"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:241
+msgid "Hey There"
+msgstr "שלום"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:245
+msgid "Receive In-depth Articles, Event Highlights, and "
+msgstr "קבל מאמרים מעמיקים, דגשים באירועים ו"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:245
+msgid "Exclusive Offers We Share Frequently"
+msgstr "מבצעים בלעדיים שאנו חולקים לעתים קרובות"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:261
+msgid "Stay In Touch"
+msgstr "תישאר בקשר"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:282
+msgid "Catch the Deal of the Week"
+msgstr "תפסו את עסקת השבוע"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:286
+msgid ""
+"Subscribe today to instantly receive a 20% off on your next orders. Hurry, "
+"this offer won&apos;t last long"
+msgstr ""
+"הירשם היום כדי לקבל 20% הנחה מיידית על ההזמנות הבאות שלך. מהרו, הצעה זו לא "
+"תימשך זמן רב"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:290
+msgid "Your Name"
+msgstr "Your Name"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:294
+msgid "Your Email"
+msgstr "האימייל שלך"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:298
+msgid "Count Me In"
+msgstr "אני בפנים"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:311
+msgid ""
+"Are you seeking&nbsp;personalized assistance in identifying the right "
+"solution?"
+msgstr "האם אתה מחפש&nbsp;סיוע מותאם אישית בזיהוי הפתרון הנכון?"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:315
+msgid "Let Us Help Out"
+msgstr "תן לנו לעזור"
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:319
+msgid "Contact our expert team"
+msgstr "צור קשר עם צוות המומחים שלנו"
+
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:43
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:59
+msgid "Mail Mint"
+msgstr ""
+
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:78
+msgid "Select Lists"
+msgstr "בחר רשימות"
+
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:97
+msgid "Select tags"
+msgstr "בחר תגים"
+
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:251
+msgid "Field Mapping"
+msgstr "מיפוי שדות"
+
+#: app/Internal/Traits/Singleton.php:62
+msgid "Cloning is forbidden."
+msgstr "שיבוט אסור."
+
+#: app/Internal/Traits/Singleton.php:71
+msgid "Unserializing instances of this class is forbidden."
+msgstr "אסור לבטל מופעים של מחלקה זו."
+
+#: includes/MailMintProUpdater.php:143
+msgid "An error occour when try to identify the pluguin."
+msgstr "מתרחשת שגיאה בעת ניסיון לזהות את הפלאגין."
+
+#: includes/MailMintProUpdater.php:143 includes/MailMintProUpdater.php:150
+msgid "Try again"
+msgstr "נסה שוב"
+
+#: includes/MailMintProUpdater.php:150
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "אירעה שגיאת HTTP בלתי צפויה במהלך בקשת ה-API."
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:192
+msgid "Network Activate %s"
+msgstr ""
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:192
+msgid "Network Activate"
+msgstr "הפעלת רשת"
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:196
+#: includes/MintMailProDependency.php:203
+msgid "Delete %s"
+msgstr ""
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:196
+#: includes/MintMailProDependency.php:203
+msgid "Delete"
+msgstr "לִמְחוֹק"
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:200
+msgid "Activate %s"
+msgstr ""
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:200
+msgid "Activate"
+msgstr "לְהַפְעִיל"
+
+#: includes/MintMailProDependency.php:268
+#: includes/MintMailProDependency.php:279
+msgid ""
+"You need to Install & Activate the latest version of Email Marketing "
+"Automation - Mail Mint (Free) before activating Email Marketing Automation - "
+"Mail Mint (Pro)."
+msgstr ""
+"עליך להתקין ולהפעיל את הגרסה העדכנית ביותר של Email Marketing Automation - "
+"Mail Mint (חינם) לפני הפעלת Email Marketing Automation - Mail Mint (Pro)."

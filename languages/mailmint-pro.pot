@@ -1,0 +1,845 @@
+# Copyright (C) 2024 WPFunnels Team
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Marketing Automation - Mail Mint (Pro) 1.7.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mail-mint-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-08T07:42:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: mailmint-pro\n"
+
+#. Plugin Name of the plugin
+msgid "Email Marketing Automation - Mail Mint (Pro)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://getwpfunnels.com/email-marketing-automation-mail-mint/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Power up 🔥 your funnels using exclusive email sequences, advanced email automation ⚙️, and visual integration with WPFunnels."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPFunnels Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://getwpfunnels.com/"
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:46
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:67
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:88
+msgid "Query Successful."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:49
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:70
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:91
+msgid "Failed to get data."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:110
+msgid "Abandoned Cart has been deleted successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:114
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:136
+msgid "Failed to delete."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:132
+msgid "Abandoned carts has been deleted successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:150
+msgid "Failed to get automation data."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:157
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:159
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:189
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:191
+msgid "Abandoned automation data."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:174
+msgid "Get Report Successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:176
+msgid "Abandoned cart analytics Report."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:204
+msgid "Failed to run automation data."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:208
+msgid "Run automation successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:210
+msgid "Run abandoned successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartAdminController.php:276
+#: app/Admin/API/Controllers/AbandonedCartSettingController.php:107
+#: app/Admin/API/Controllers/EmailBuilderController.php:527
+msgid "Sorry, you cannot edit this resources."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:70
+msgid "Cart Details Not Found."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:88
+msgid "Checkout data has been updated."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:103
+msgid "Email not found."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:111
+msgid "Deleted."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:113
+msgid "Not Deleted."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartFrontendController.php:115
+msgid "No cart details found."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartSettingController.php:52
+msgid "Missing or empty parameters"
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartSettingController.php:67
+msgid "Abandoned cart settings have been successfully saved."
+msgstr ""
+
+#: app/Admin/API/Controllers/AbandonedCartSettingController.php:86
+msgid "No settings found"
+msgstr ""
+
+#: app/Admin/API/Controllers/ContactExportController.php:76
+msgid "Contact fields have been retrieved successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/ContactExportController.php:102
+msgid "Contacts have been retrieved successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/ContactExportController.php:127
+msgid "Contacts have been exported successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/ContactExportController.php:153
+msgid "CSV file has been exported successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/ContactExportController.php:161
+msgid "CSV file is not available to download."
+msgstr ""
+
+#: app/Admin/API/Controllers/ContactProfileController.php:79
+#: app/Admin/API/Controllers/ContactProfileController.php:103
+#: app/Admin/API/Controllers/ContactProfileController.php:134
+msgid "Data have been retrieved successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:62
+msgid "Title is mandatory, Can not Save."
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:71
+#: app/Admin/API/Controllers/CustomFieldController.php:76
+msgid "Field is already available, Can not Save."
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:83
+msgid "Field is already available."
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:89
+#: app/Admin/API/Controllers/CustomFieldController.php:96
+msgid "Same slug has been assigned to another Field, Can not Save."
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:104
+msgid "Type is mandatory, Can not Save."
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:155
+msgid "Field has been saved successfully"
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:157
+#: app/Admin/API/Controllers/SegmentController.php:74
+#: app/Admin/API/Controllers/WebHookController.php:78
+msgid "Failed to save"
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:159
+msgid "Custom Field is not valid"
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:180
+msgid "Field has been deleted successfully"
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:183
+#: app/Admin/API/Controllers/SegmentController.php:180
+#: app/Admin/API/Controllers/SegmentController.php:202
+#: app/Admin/API/Controllers/WebHookController.php:175
+#: app/Admin/API/Controllers/WebHookController.php:197
+msgid "Failed to delete"
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:222
+#: app/Admin/API/Controllers/CustomFieldController.php:247
+#: app/Admin/API/Controllers/SegmentController.php:133
+#: app/Admin/API/Controllers/WebHookController.php:129
+#: app/Admin/API/Controllers/WebHookController.php:212
+msgid "Query Successfull"
+msgstr ""
+
+#: app/Admin/API/Controllers/CustomFieldController.php:224
+#: app/Admin/API/Controllers/CustomFieldController.php:249
+#: app/Admin/API/Controllers/SegmentController.php:135
+#: app/Admin/API/Controllers/WebHookController.php:131
+#: app/Admin/API/Controllers/WebHookController.php:214
+msgid "Failed to get data"
+msgstr ""
+
+#. Translators: %d stock amount
+#: app/Admin/API/Controllers/EmailBuilderController.php:192
+msgid "Stock: %d"
+msgstr ""
+
+#: app/Admin/API/Controllers/EmailBuilderController.php:484
+msgid "No products are currently available."
+msgstr ""
+
+#: app/Admin/API/Controllers/EmailBuilderController.php:514
+msgid "Products has been retrieved successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:53
+#: app/Admin/API/Controllers/WebHookController.php:47
+msgid "Title is mandatory"
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:58
+msgid "Filters are mandatory."
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:72
+msgid "Segment has been saved successfully"
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:76
+msgid "Segment is not valid"
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:154
+#: app/Admin/API/Controllers/SegmentController.php:241
+msgid "Successfully fetched segment contacts!"
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:157
+msgid "Failed to fetch the segment contacts!"
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:177
+msgid "Segment has been deleted successfully"
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:199
+msgid "Segments has been deleted successfully"
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:244
+msgid "No contacts matched."
+msgstr ""
+
+#: app/Admin/API/Controllers/SegmentController.php:264
+msgid "Field types have been retrieved successfully."
+msgstr ""
+
+#: app/Admin/API/Controllers/WebHookController.php:76
+msgid "WebHook has been saved successfully"
+msgstr ""
+
+#: app/Admin/API/Controllers/WebHookController.php:80
+msgid "WebHook is not valid"
+msgstr ""
+
+#: app/Admin/API/Controllers/WebHookController.php:150
+msgid "Successfully fetched webhook data!"
+msgstr ""
+
+#: app/Admin/API/Controllers/WebHookController.php:153
+msgid "Failed to fetch the webhook data!"
+msgstr ""
+
+#: app/Admin/API/Controllers/WebHookController.php:173
+#: app/Admin/API/Controllers/WebHookController.php:194
+msgid "Webhook has been deleted successfully"
+msgstr ""
+
+#: app/App.php:98
+msgid "Heads up, Please backup before upgrade!"
+msgstr ""
+
+#: app/App.php:172
+#: app/App.php:173
+msgid "Licence"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:641
+#: app/Internal/AbandonedCart/Helper/Common.php:653
+#: app/Internal/FormBuilder/FormBuilderHook.php:181
+#: app/Internal/FormBuilder/FormBuilderHook.php:249
+#: app/Internal/FormBuilder/FormBuilderHook.php:333
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:326
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:337
+msgid "First Name"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:642
+#: app/Internal/AbandonedCart/Helper/Common.php:654
+#: app/Internal/FormBuilder/FormBuilderHook.php:253
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:327
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:338
+msgid "Last Name"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:643
+#: app/Internal/AbandonedCart/Helper/Common.php:655
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:328
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:339
+msgid "Company"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:644
+#: app/Internal/AbandonedCart/Helper/Common.php:656
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:329
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:340
+msgid "Address 1"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:645
+#: app/Internal/AbandonedCart/Helper/Common.php:657
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:330
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:341
+msgid "Address 2"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:646
+#: app/Internal/AbandonedCart/Helper/Common.php:658
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:331
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:342
+msgid "City"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:647
+#: app/Internal/AbandonedCart/Helper/Common.php:659
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:332
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:343
+msgid "Postal/Zip Code"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:648
+#: app/Internal/AbandonedCart/Helper/Common.php:660
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:333
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:344
+msgid "State"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:649
+#: app/Internal/AbandonedCart/Helper/Common.php:661
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:334
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:345
+msgid "Country"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:650
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:335
+msgid "Phone Number"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:651
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:336
+msgid "Email Address"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:662
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:346
+msgid "Phone"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:664
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:347
+msgid "WordPress Page ID"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:665
+#: tests/unit-test/php/actions/internal/abandoned-carts/test-common-helper.php:348
+msgid "Payment Method"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:767
+msgid "Product"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:777
+msgid "Quantity"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:787
+msgid "Price"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:857
+msgid "Total:"
+msgstr ""
+
+#: app/Internal/AbandonedCart/Helper/Common.php:1173
+msgid "Abandoned Cart"
+msgstr ""
+
+#: app/Internal/Actions/Hooks.php:173
+msgid "Your <strong>Email Marketing Automation - Mail Mint (Pro)</strong> license is not activated. Please <a href=\"%1$s\">activate your license</a> to use all the pro features of <strong>Email Marketing Automation - Mail Mint (Pro)</strong>"
+msgstr ""
+
+#: app/Internal/Actions/WebHooks.php:48
+msgid "Webhook must need to be as POST Method"
+msgstr ""
+
+#: app/Internal/Actions/WebHooks.php:86
+#: app/Internal/Actions/WebHooks.php:107
+msgid "The email has not been found."
+msgstr ""
+
+#: app/Internal/Actions/WebHooks.php:117
+msgid "The Hash does not match."
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:20
+msgid "Plugin / Addons"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:21
+msgid "License Input"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:56
+msgid "Deactivate License"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:61
+msgid "Activate License"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:77
+msgid "Manage License"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:78
+msgid "Manage your license and subscriptions in your personalized user account."
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:79
+msgid "Manage license"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:94
+#: app/Internal/Admin/Licence/licence.php:96
+msgid "Documentation"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:95
+msgid "Get detailed guide and documentation on Mail Mint and create highly converting sales funnels easily."
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:106
+msgid "Support"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:107
+msgid "Can’t find solution with our documentation? Just post a ticket. Our professional team is here to solve your problems."
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:108
+msgid "Post A Ticket"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:118
+msgid "Show Your Love"
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:119
+msgid "We love to have you in Mail Mint family. Take your 2 minutes to review  and spread the love to encourage us to keep it going."
+msgstr ""
+
+#: app/Internal/Admin/Licence/licence.php:120
+msgid "Leave a Review"
+msgstr ""
+
+#: app/Internal/Automation/Actions/AddContactNote.php:53
+msgid "Add contact note"
+msgstr ""
+
+#: app/Internal/Automation/Actions/AddContactNote.php:69
+msgid "Subscriber double opt-in confirmed"
+msgstr ""
+
+#: app/Internal/Automation/Actions/AddContactNote.php:70
+msgid "Subscriber confirmed double opt-in"
+msgstr ""
+
+#: app/Internal/Automation/Actions/Conditions/Condition.php:49
+msgid "Condition"
+msgstr ""
+
+#: app/Internal/Automation/Actions/Conditions/EmailClicked.php:66
+#: app/Internal/Automation/Actions/Conditions/EmailOpened.php:65
+#: app/Internal/Automation/Actions/Conditions/UserRole.php:47
+msgid "User Role"
+msgstr ""
+
+#: app/Internal/Automation/Actions/CreateCoupon.php:50
+msgid "Create Coupon"
+msgstr ""
+
+#: app/Internal/Automation/Actions/CreateUser.php:51
+msgid "Create User"
+msgstr ""
+
+#: app/Internal/Automation/Actions/RemoveList.php:51
+msgid "Remove List"
+msgstr ""
+
+#: app/Internal/Automation/Actions/RemoveTag.php:51
+msgid "Remove tag"
+msgstr ""
+
+#: app/Internal/Automation/Actions/Sequence.php:56
+msgid "Sequence"
+msgstr ""
+
+#: app/Internal/Automation/Actions/Sequence.php:192
+#: app/Internal/Automation/AutomationManager.php:128
+msgid "sent"
+msgstr ""
+
+#: app/Internal/Automation/Actions/Sequence.php:194
+#: app/Internal/Automation/AutomationManager.php:130
+msgid "failed"
+msgstr ""
+
+#: app/Internal/Automation/Actions/SpecificTimeDelay.php:53
+msgid "Specific Time Delay"
+msgstr ""
+
+#: app/Internal/Automation/Actions/StopAutomation.php:47
+msgid "Stop Automation"
+msgstr ""
+
+#: app/Internal/Automation/Actions/UpdateStatus.php:49
+msgid "Update status"
+msgstr ""
+
+#: app/Internal/Automation/Actions/UpdateUserMeta.php:50
+msgid "Update user meta"
+msgstr ""
+
+#: app/Internal/Automation/Actions/WebHookOutgoing.php:49
+msgid "Webook"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/ContactForm/ConnectorContactForm.php:50
+msgid "Contact Form 7"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/ContactForm/ConnectorContactForm.php:87
+msgid "Contact Form 7 - After submission"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/Edd/ConnectorEdd.php:50
+msgid "EDD"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/FluentForm/ConnectorFluentForm.php:50
+msgid "Fluent Forms"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/Gform/ConnectorGform.php:50
+msgid "Gform"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/JetForm/ConnectorJetform.php:50
+msgid "JetForm"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/LearnDash/ConnectorLearnDash.php:54
+msgid "LearnDash"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/LearnDash/ConnectorLearnDash.php:88
+msgid "Enrolls in a course"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/Tutor/ConnectorTutor.php:50
+msgid "Tutor"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/WooCommerce/ConnectorWoocommerce.php:50
+msgid "Woocommerce"
+msgstr ""
+
+#: app/Internal/Automation/Connectors/Wpfunnels/ConnectorWpfunnels.php:55
+msgid "WPFunnels"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:67
+msgid "Black Friday"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:67
+msgid "Sale"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:71
+msgid "We don’t want you to miss a thing - sign up to get our discounts"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:75
+#: app/Internal/FormBuilder/FormBuilderHook.php:110
+msgid "Enter Email*"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:79
+msgid "Enter First Name"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:83
+#: app/Internal/FormBuilder/FormBuilderHook.php:345
+msgid "Subscribe"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:87
+msgid "We don’t spam! Read more in our "
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:87
+#: app/Internal/FormBuilder/FormBuilderHook.php:120
+#: app/Internal/FormBuilder/FormBuilderHook.php:156
+#: app/Internal/FormBuilder/FormBuilderHook.php:302
+msgid "privacy policy"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:106
+msgid "Join 2 others, and start your fitness"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:106
+msgid "journey with us today"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:114
+#: app/Internal/FormBuilder/FormBuilderHook.php:225
+msgid "Join Now"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:120
+#: app/Internal/FormBuilder/FormBuilderHook.php:156
+#: app/Internal/FormBuilder/FormBuilderHook.php:267
+#: app/Internal/FormBuilder/FormBuilderHook.php:302
+msgid "We don’t spam! Read more in our"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:138
+msgid "Boo!"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:138
+msgid "Don't Be Scared"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:142
+msgid "20%"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:142
+msgid "off on all Halloween products"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:146
+msgid "Enter your email"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:150
+msgid "Dare To Subscribe"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:171
+msgid "Grab your free eBook to discover proven real-life storytelling methods"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:175
+msgid "Learn how top influencers gained recognition and created a global impact"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:187
+#: app/Internal/FormBuilder/FormBuilderHook.php:221
+#: app/Internal/FormBuilder/FormBuilderHook.php:257
+#: app/Internal/FormBuilder/FormBuilderHook.php:339
+msgid "Email"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:193
+msgid "Get The Book Now"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:213
+msgid "Join The Bunch"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:217
+msgid "Be a part of meaningful connections, exclusive updates, and engaging discussions with our community"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:241
+msgid "Hey There"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:245
+msgid "Receive In-depth Articles, Event Highlights, and "
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:245
+msgid "Exclusive Offers We Share Frequently"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:261
+msgid "Stay In Touch"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:282
+msgid "Catch the Deal of the Week"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:286
+msgid "Subscribe today to instantly receive a 20% off on your next orders. Hurry, this offer won&apos;t last long"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:290
+msgid "Your Name"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:294
+msgid "Your Email"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:298
+msgid "Count Me In"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:311
+msgid "Are you seeking&nbsp;personalized assistance in identifying the right solution?"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:315
+msgid "Let Us Help Out"
+msgstr ""
+
+#: app/Internal/FormBuilder/FormBuilderHook.php:319
+msgid "Contact our expert team"
+msgstr ""
+
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:43
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:59
+msgid "Mail Mint"
+msgstr ""
+
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:78
+msgid "Select Lists"
+msgstr ""
+
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:97
+msgid "Select tags"
+msgstr ""
+
+#: app/Internal/Integration/Elementor/ElementorFormAction.php:251
+msgid "Field Mapping"
+msgstr ""
+
+#: app/Internal/Traits/Singleton.php:62
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: app/Internal/Traits/Singleton.php:71
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: includes/MailMintProUpdater.php:143
+msgid "An error occour when try to identify the pluguin."
+msgstr ""
+
+#: includes/MailMintProUpdater.php:143
+#: includes/MailMintProUpdater.php:150
+msgid "Try again"
+msgstr ""
+
+#: includes/MailMintProUpdater.php:150
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:192
+msgid "Network Activate %s"
+msgstr ""
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:192
+msgid "Network Activate"
+msgstr ""
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:196
+#: includes/MintMailProDependency.php:203
+msgid "Delete %s"
+msgstr ""
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:196
+#: includes/MintMailProDependency.php:203
+msgid "Delete"
+msgstr ""
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:200
+msgid "Activate %s"
+msgstr ""
+
+#. translators: %s: plugin name
+#: includes/MintMailProDependency.php:200
+msgid "Activate"
+msgstr ""
+
+#: includes/MintMailProDependency.php:268
+#: includes/MintMailProDependency.php:279
+msgid "You need to Install & Activate the latest version of Email Marketing Automation - Mail Mint (Free) before activating Email Marketing Automation - Mail Mint (Pro)."
+msgstr ""
